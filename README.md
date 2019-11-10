@@ -1,5 +1,5 @@
 
-I recently bought a KSGER T12 iron due to its good reviews. The PCB itself is already pretty good, but I did two things additionally.
+I recently bought a KSGER T12 iron due to its good reviews. The PCB itself is already pretty good - beefy isolation slots, dual fused, and easily servicable, but I did two things additionally.
 
 ![PCB](https://i.imgur.com/pXvoC45.png)
 
