@@ -1,3 +1,4 @@
+# Making the KSGER T12 soldering iron safer
 
 I recently bought a KSGER T12 iron due to its good reviews. The PCB itself is already pretty good - beefy isolation slots, dual fused, and easily servicable, but I did two things additionally.
 
