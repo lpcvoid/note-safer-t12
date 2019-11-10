@@ -23,4 +23,4 @@ I chose to cut three fins, that gave enough clearance.
 
 ![Cut heatsink](https://i.imgur.com/U50wk9A.png)
 
-Afterwards, I think this is a extremly good iron that's very cheap, and if something craps out it's easy to replace.
+Resolder and screw back in place. You might also want to add thermal paste, that way both TO-220 packages won't get as hot. Afterwards, I think this is a extremly good iron that's very cheap, and if something craps out it's easy to replace.
